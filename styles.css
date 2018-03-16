@@ -1,0 +1,15 @@
+html {
+    background-color: aqua;
+}
+
+header {
+    background-color: darkviolet;
+}
+
+.hobby {
+    background-image: url("images/table_bg.png");
+}
+
+#anime {
+    background-image: url("images/dragonballs.jpg")
+}
