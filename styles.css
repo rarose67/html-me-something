@@ -19,3 +19,17 @@ table {
 #anime {
     font-family: fantasy;
 }
+
+#anime img {
+    height: 200px;
+}
+
+#tv img {
+    height: 200px;
+    width: auto;
+}
+
+#vg img {
+    max-height: 200px;
+    width: auto;
+}
