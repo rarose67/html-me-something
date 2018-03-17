@@ -4,6 +4,12 @@ html {
 
 header {
     background-color: darkviolet;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    margin: 20px;
 }
 
 .hobby {
@@ -11,5 +17,5 @@ header {
 }
 
 #anime {
-    background-image: url("images/dragonballs.jpg")
+    font-family: fantasy;
 }
