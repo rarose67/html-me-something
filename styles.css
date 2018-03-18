@@ -1,19 +1,33 @@
 html {
-    background-color: aqua;
+    background-color: black
 }
 
 header {
     background-color: darkviolet;
-    padding: 10px;
     text-align: center;
 }
 
 table {
     margin: 20px;
+    padding: 0px 5px 5px 5px;
+    background-color: brown;
+    border: white solid 3px;
+}
+
+ th{
+    border-right: white solid 3px;
+}
+
+td {
+    border-right: white solid 3px;
 }
 
 .hobby {
     background-image: url("images/table_bg.png");
+}
+
+.last-col {
+    border-right: hidden;
 }
 
 #anime {
@@ -22,14 +36,17 @@ table {
 
 #anime img {
     height: 200px;
+    margin-left: 2px;
 }
 
 #tv img {
     height: 200px;
     width: auto;
+    margin-left: 2px;
 }
 
 #vg img {
     max-height: 200px;
     width: auto;
+    margin-left: 2px;
 }
